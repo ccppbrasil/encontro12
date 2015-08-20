@@ -1,2 +1,7 @@
-# encontro12
- Repositório para o material das palestras do 12° encontro http://www.ccppbrasil.org/encontros/ 
+12° Encontro de Programadores C & C++ do Brasil
+======================================================================
+
+Para clonar todo o conteúdo localmente:
+```
+git clone --recursive git@github.com:ccppbrasil/encontro12.git
+```

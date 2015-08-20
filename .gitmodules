@@ -1,0 +1,3 @@
+[submodule "AndreTupinamba/soaTest"]
+	path = AndreTupinamba/soaTest
+	url = https://github.com/andrelrt/soaTest.git
